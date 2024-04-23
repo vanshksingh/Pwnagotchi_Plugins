@@ -5,6 +5,9 @@
 ![IMG_3302](https://github.com/vanshksingh/Pwnagotchi_Plugins/assets/114809624/9522b5ae-37c1-4c08-8e66-f99d2e10edf0)
 
 
+https://www.reddit.com/r/pwnagotchi/s/kpSe5CslQX
+
+
 Welcome to the repository for edited plugins for Pwnagotchi, specifically designed to work seamlessly with a V4 display. These plugins enhance the functionality and display capabilities of your Pwnagotchi device.
 
 ## Table of Contents
