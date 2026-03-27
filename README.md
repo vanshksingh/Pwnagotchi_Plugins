@@ -1,6 +1,6 @@
 
 
-# Pwnagotchi Plugins for V4 Display
+# Pwnagotchi Plugins for V4 Display (Waveshare 2 colour model)
 
 ![IMG_3302](https://github.com/vanshksingh/Pwnagotchi_Plugins/assets/114809624/9522b5ae-37c1-4c08-8e66-f99d2e10edf0)
 
